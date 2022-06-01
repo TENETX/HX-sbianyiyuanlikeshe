@@ -1,0 +1,12 @@
+0, sigh:3.14, affi_sign:T0
+1, sigh:R, affi_sign:none
+2, sigh:r, affi_sign:none
+3, sigh:+, affi_sign:T2T4, left:1, right:2
+4, sigh:T1, affi_sign:none
+5, sigh:*, affi_sign:A, left:4, right:3
+6, sigh:T3, affi_sign:none
+7, sigh:*, affi_sign:T5, left:6, right:3
+8, sigh:-, affi_sign:T6, left:1, right:2
+9, sigh:*, affi_sign:B, left:7, right:8
+10, sigh:[], affi_sign:T7, left:3, right:6
+11, sigh:[], affi_sign:T8, left:6, right:7
